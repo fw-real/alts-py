@@ -35,6 +35,7 @@
 - [ ] Add support for proalts.com
 
 <h2>Skids</h2>
+<p>Kill yourself :)</p>
 
 <h2>Screenshots</h2>
 <img url="https://github.com/fw-real/alts-py/blob/main/screenshots/gen.png" alt="gen-screenshot">
