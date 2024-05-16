@@ -10,7 +10,7 @@
   - [x] IPVanish
 
 - [bluealts](https://bluealts.net)
-  - Crunchyroll
+  - [ ] Crunchyroll
   - [x] Hulu
   - [x] NordVPN
   - [x] Origin
