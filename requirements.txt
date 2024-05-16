@@ -1,0 +1,7 @@
+colorama
+tls-client
+pystyle
+playwright
+beautifulsoup4
+user-agent
+typing-extensions
