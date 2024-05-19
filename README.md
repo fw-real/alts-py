@@ -37,9 +37,11 @@
 <h2>Skids</h2>
 <p>Kill yourself :)</p>
 
-<h2>Screenshots</h2>
-<img url="https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen.png" alt="gen-screenshot">
-<img url="https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen2.png" alt="gen2-screenshot">
+## Screenshots
+![gen-screenshot](https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen.png)
+
+![gen2-screenshot](https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen2.png)
+
 
 <h1>Credits</h1>
     <ul>
