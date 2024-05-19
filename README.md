@@ -38,8 +38,8 @@
 <p>Kill yourself :)</p>
 
 <h2>Screenshots</h2>
-<img url="https://github.com/fw-real/alts-py/blob/main/screenshots/gen.png" alt="gen-screenshot">
-<img url="https://github.com/fw-real/alts-py/blob/main/screenshots/gen2.png" alt="gen2-screenshot">
+<img url="https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen.png" alt="gen-screenshot">
+<img url="https://raw.githubusercontent.com/fw-real/alts-py/main/screenshots/gen2.png" alt="gen2-screenshot">
 
 <h1>Credits</h1>
     <ul>
